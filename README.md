@@ -1,7 +1,8 @@
 # Permeability-calculator
 
- <img width="527" height="523" alt="Screenshot 2026-09-26 160428" src="https://github.com/user-attachments/assets/d681fa4a-2e70-4d90-80eb-644361607bcc" />
-
+<p align="center">
+  <img width="527" height="523" alt="Screenshot 2026-09-26 160428" src="https://github.com/user-attachments/assets/d681fa4a-2e70-4d90-80eb-644361607bcc" />
+</p>
 
 
 The permeability calculator is a COMSOL-based code. It is developed to generate an artificial 2D porous medium and calculate the corresponding absolute permeability, which is used in Darcy's law or other porous media flow formulations.
