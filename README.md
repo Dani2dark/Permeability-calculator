@@ -1,5 +1,7 @@
 # Permeability-calculator
+
 <img width="527" height="523" alt="Screenshot 2026-09-26 160428" src="https://github.com/user-attachments/assets/d681fa4a-2e70-4d90-80eb-644361607bcc" />
+
 The permeability calculator is a COMSOL-based code. It is developed to generate an artificial 2D porous medium and calculate the corresponding absolute permeability, which is used in Darcy's law or other porous media flow formulations.
 
 The main purpose of this code is to automate the generation of the circles in the domain by simple inputs provided by the user; then a sophisticated meshing approach is used to accelerate the meshing process. This approach decreases the meshing time substantially, especially when the domain is large.
